@@ -1,2 +1,3 @@
 # python-learning
-Python学習
+
+Python 学習
